@@ -1,6 +1,15 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://cdn.discordapp.com/avatars/809135400136081450/82e0775330c4a26a818b547b34ac6839.webp?size=4096"/>
-   <h3 align="center">¡Hola! Soy Ed</h3>
-</p>
+<div align="center">
+   <a href="https://discord.com/users/809135400136081450">
+      <img src="https://lanyard.cnrad.dev/api/809135400136081450?animated=true"></img>
+   </a>
+   <p width="300">
+      <h3>👋¡Hola! Soy Eduardo Gómez pero me puedes llamar Edú jeje</h3>
+   </p>
 
-<p align="center">Me gusta aprender a <strong>Programar</strong> en mi tiempo libre<br />¡Puedes revisar algunos proyectos que he realizado 👇!</p>
+   <p>Me gusta aprender a <strong>Programar</strong> en mi tiempo libre<br />¡Puedes revisar algunos proyectos que he realizado 👇!</p>
+</div>
+
+## Puede ver mis Skills Aquí 👇
+![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=EDUJOS&count_private=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDUJOS&theme=dark&layout=compact&locale=es)](https://github.com/anuraghazra/github-readme-stats)
