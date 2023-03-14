@@ -29,7 +29,7 @@
 De vez en cuando alguno de nuestros seguidores puede unirse y tener una breve intervención en la sección ***Un Momento Contigo.*** Así que si gustas puedes unirte a nuestro [servidor de discord](https://discord.gg/AaHuAnA8bc)
 
 
-Recuerda que puedes escucharlo en la mayoría de plataformas de streaming diguital como [Spotify](https://open.spotify.com/show/3LBp4l6j4BmNRGNju5n8Si), [Apple Podcast](https://podcasts.apple.com/us/podcast/hablemos-sin-ser-vistos/id1562802249?uo=4), [Google Podcast](https://podcasts.apple.com/us/podcast/hablemos-sin-ser-vistos/id1562802249?uo=4), entre otros!
+Recuerda que puedes escucharlo en la mayoría de plataformas de streaming digital como [Spotify](https://open.spotify.com/show/3LBp4l6j4BmNRGNju5n8Si), [Apple Podcast](https://podcasts.apple.com/us/podcast/hablemos-sin-ser-vistos/id1562802249?uo=4), [Google Podcast](https://podcasts.apple.com/us/podcast/hablemos-sin-ser-vistos/id1562802249?uo=4), entre otros!
 
 <a href="https://promocards.byspotify.com/share/ce25c480456b7579bab76c4632c405b417655e5d">
    <img width="500" src="https://user-images.githubusercontent.com/88695055/224862688-dffe5567-2337-4139-ac40-46ca3ea80fce.png">
