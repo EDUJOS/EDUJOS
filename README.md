@@ -3,8 +3,8 @@
    <div style="display:flex">
       <img width="200" src="https://user-images.githubusercontent.com/88695055/224853988-15a05c21-0572-48a3-8338-4d3958fb3a33.png">
       <div>
-      <h3>👋¡Hola! Soy Eduardo Josué Gómez👋<br>Pero puedes llamarme Edú el Jr Dev 🍟</h3>
-      <p>Soy estudiante de Ingeniería Química<br>y en mi tiempo libre me gusta aprender a <strong>Programar</strong><br>con <strong>JavaScript, Python</strong><br>¡Puedes revisar algunos proyectos de código abierto que he realizado 👇!</p></div>
+      <h3>👋¡Hola! Soy Eduardo Josué Gómez Junior Developer👋<br>Pero puedes llamarme Edú🍟</h3>
+      <p>Soy estudiante de Ingeniería Química<br>y en mi tiempo libre me gusta <strong>Programar</strong><br>con <strong>JavaScript y Python</strong><br>¡Puedes revisar algunos proyectos de código abierto que he realizado 👇!</p></div>
    </div>
 </div>
 <br>
