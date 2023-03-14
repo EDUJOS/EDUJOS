@@ -26,7 +26,7 @@
 ¡Ah por cierto!
 
 
-De vez en cuando alguno de los nuestros seguidores puede unirse y tener una breve intervención en la sección ***Un Momento Contigo.*** Así que si gustas puedes unirte a nuestro [servidor de discord](https://discord.gg/AaHuAnA8bc)
+De vez en cuando alguno de nuestros seguidores puede unirse y tener una breve intervención en la sección ***Un Momento Contigo.*** Así que si gustas puedes unirte a nuestro [servidor de discord](https://discord.gg/AaHuAnA8bc)
 
 
 Recuerda que puedes escucharlo en la mayoría de plataformas de streaming diguital como [Spotify](https://open.spotify.com/show/3LBp4l6j4BmNRGNju5n8Si), [Apple Podcast](https://podcasts.apple.com/us/podcast/hablemos-sin-ser-vistos/id1562802249?uo=4), [Google Podcast](https://podcasts.apple.com/us/podcast/hablemos-sin-ser-vistos/id1562802249?uo=4), entre otros!
