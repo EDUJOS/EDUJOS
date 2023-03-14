@@ -20,11 +20,11 @@
 <br>
 <br>
 
-# 💯 Skills
+# Skills ⌨
    
 **Languages**
 - JavaScript (Intermedio)
-- TypeScript (Aprendiendo)
+- TypeScript (Básico - Aprendiendo)
 - Python (Aprendiendo)
 
 **Fontend**
@@ -66,8 +66,9 @@ Recuerda que puedes escucharlo en la mayoría de plataformas de streaming diguit
 ## 🔗 Social media
 <div>
    <a href="https://discord.com/users/809135400136081450">
-      <img src="https://lanyard.cnrad.dev/api/809135400136081450?animated=true&idleMessage=¡Vaya!%20Parece%20que%20estoy%20haciendo%20algo%20más%20que%20no%20sea%20escuchar%20música%20💤">
+      <img src="https://lanyard.cnrad.dev/api/809135400136081450?animated=true">
    </a>
+   <br>
    <div>
       <a href="www.twitter.com/edtkiere">
          <img width="30" src="https://user-images.githubusercontent.com/88695055/224857513-8c005e2f-7ecb-44b7-aaf1-2106353196d7.png" alt="@EdTkiere on Twitter">
@@ -80,3 +81,7 @@ Recuerda que puedes escucharlo en la mayoría de plataformas de streaming diguit
       </a>
    </div>
 </div>
+
+<br>
+
+> Twitter | Spotify | Instagram <3
