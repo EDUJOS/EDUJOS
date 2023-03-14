@@ -18,33 +18,6 @@
    </a>
 </div>
 <br>
-<br>
-
-# Skills ⌨
-   
-**Languages**
-- JavaScript (Intermedio)
-- TypeScript (Básico - Aprendiendo)
-- Python (Aprendiendo)
-
-**Fontend**
-- HTML
-- CSS
-- JavaScript Vanilla
-- React (Aprendiendo)
-- Tailwind (Aprendiendo)
-
-**Backend**
-- NodeJS
-- Express
-- MongoDb
-- Firebase
-
-<div align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=EDUJOS&count_private=true&theme=dark&include_all_commits=true&show_icons=true">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDUJOS&theme=dark&hide=TeX&count_private=true&layout=compact">
-</div>
-
 
 ## 🎙 ***Hablemos Sin Ser Vistos*** Podcast
 
