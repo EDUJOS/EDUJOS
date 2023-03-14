@@ -41,20 +41,12 @@ Recuerda que puedes escucharlo en la mayoría de plataformas de streaming diguit
    <a href="https://discord.com/users/809135400136081450">
       <img src="https://lanyard.cnrad.dev/api/809135400136081450?animated=true">
    </a>
-   <br>
-   <div>
-      <a href="www.twitter.com/edtkiere">
-         <img width="30" src="https://user-images.githubusercontent.com/88695055/224857513-8c005e2f-7ecb-44b7-aaf1-2106353196d7.png" alt="@EdTkiere on Twitter">
-      </a>
-      <a href="https://open.spotify.com/user/22elzvlecvzn3stlrk6so7nya">
-         <img width="30" src="https://user-images.githubusercontent.com/88695055/224858692-613176f1-ca33-4031-8352-fd748a87b00f.png" alt="@Eujos on Spotify">
-      </a>
-      <a href="www.instagram.com/edujos_ph">
-         <img width="30" src="https://user-images.githubusercontent.com/88695055/224858686-4067f49e-843f-4d64-bcec-20d7cde74da8.png" alt="@edujos_ph on Instagram">
-      </a>
-   </div>
-</div>
 
+   <div style="display:flex">
+<a href="https://twitter.com/edtkiere"><img width="30" src="https://user-images.githubusercontent.com/88695055/224857513-8c005e2f-7ecb-44b7-aaf1-2106353196d7.png" alt="@EdTkiere on Twitter"></a>
+<a href="https://open.spotify.com/user/22elzvlecvzn3stlrk6so7nya"><img width="30" src="https://user-images.githubusercontent.com/88695055/224858692-613176f1-ca33-4031-8352-fd748a87b00f.png" alt="@Eujos on Spotify"></a>
+<a href="https://instagram.com/edujos_ph"><img width="30" src="https://user-images.githubusercontent.com/88695055/224858686-4067f49e-843f-4d64-bcec-20d7cde74da8.png" alt="@edujos_ph on Instagram"></a>
+</div>
 <br>
 
-> Twitter | Spotify | Instagram <3
+> Te quiero mucho extraño <3
