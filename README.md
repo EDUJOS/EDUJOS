@@ -16,6 +16,8 @@
    <a href="https://github.com/EDUJOS/spotify-user-info">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=EDUJOS&repo=spotify-user-info&theme=dark">   
    </a>
+   <!--<img src="https://github-readme-stats.vercel.app/api?username=EDUJOS&show_icons=true&theme=dark">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDUJOS&layout=compact&theme=dark">-->
 </div>
 <br>
 
