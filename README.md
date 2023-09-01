@@ -3,7 +3,7 @@
    <div style="display:flex">
       <img width="200" src="https://user-images.githubusercontent.com/88695055/224853988-15a05c21-0572-48a3-8338-4d3958fb3a33.png">
       <div>
-      <h3>👋¡Hola! Soy Eduardo Gómez, Junior Developer👋<br>Pero puedes llamarme Edú🍟</h3>
+      <h3>¡Hola! Soy Eduardo Gómez👋<br>Pero puedes llamarme Edú🍟</h3>
       <p>Soy estudiante de Ingeniería Química<br>y en mi tiempo libre me gusta <strong>Programar</strong><br>¡Puedes revisar algunos proyectos de código abierto que he realizado 👇!</p></div>
    </div>
 </div>
