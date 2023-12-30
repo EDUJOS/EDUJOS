@@ -11,11 +11,14 @@
 
 <div style="display:flex" align="center">   
    <a href="https://github.com/EDUJOS/tweet-cli-v2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EDUJOS&repo=tweet-cli-v2&theme=dark">   
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EDUJOS&repo=tweet-cli-v2&theme=dark"> <!--radical-->
    </a>
    <a href="https://github.com/EDUJOS/spotify-user-info">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=EDUJOS&repo=spotify-user-info&theme=dark">   
    </a>
+   
+   ![Stats](https://github-readme-stats.vercel.app/api?username=EDUJOS&show_icons=true&theme=dark)
+   
    <!--<img src="https://github-readme-stats.vercel.app/api?username=EDUJOS&show_icons=true&theme=dark">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDUJOS&layout=compact&theme=dark">-->
 </div>
